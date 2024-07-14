@@ -52,7 +52,7 @@ ScrollReveal().reveal('.home-content p', { origin: 'right' });
 
 //========================= typed text =================================//
 const typed = new Typed('.multiple-text', {
-    strings: ['CUSTOMER SUPPORT MANAGER', 'E-COMMERECE BUSINESS MANAGER'],
+    strings: ['E-COMMERECE BUSINESS MANAGMENT', 'Customer service via Email, Live Chat and Phone support'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
