@@ -215,7 +215,6 @@ span {
 }
 
 .about-content h2 {
-    text-align: left;
     line-height: 1.2;
 }
 
@@ -354,6 +353,8 @@ span {
     font-size: 2rem;
     color: var(--second--bg-color);
 }
+
+
 
 .contact h2 {
     margin-bottom: 3rem;
