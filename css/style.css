@@ -51,6 +51,10 @@ body {
     color: var(--text-color);
 }
 
+.logo-img{
+    width:29%;
+}
+
 section {
     min-height: 100vh;
     padding: 10rem 9% 2rem;
@@ -565,7 +569,10 @@ span {
 
 @media (max-width: 991px) {
     .header {
-        padding: 2rem 3%;
+        padding: 0.5rem 3%;
+    }
+    .logo-img{
+        width:25%;
     }
 
     section {
@@ -676,6 +683,9 @@ span {
     .section_pd {
         padding: 2rem 0 3rem;
    }
+   .logo-img{
+        width:21%;
+    }
 }
 
 @media (max-width:450px) {
